@@ -1,5 +1,5 @@
 public void setup() {
-  size(1500, 700);
+  size(2000, 1500);
   ellipseMode(CENTER);
   rectMode(CENTER);
   //noLoop();
